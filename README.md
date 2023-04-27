@@ -1,10 +1,10 @@
 ## Oi! Eu sou Joabe :)
 
-📗 Estudando - Html/ Css/ JS
+📗 Estudando - Python
 
 🙃 Pronouns - ele/dele
 
-😅✊ - Terminando o 3° ano ensino médio
+😅✊ - Futuro Dev
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joabetenorio&show_icons=true&theme=cobalt)
 
