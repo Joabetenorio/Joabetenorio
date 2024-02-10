@@ -1,9 +1,7 @@
-## Oi! Eu sou Joabe :)
+## Oi!
 
-📗 Estudando - Python
-
+📗 Cursando: Sistema de Informação
 🙃 Pronouns - ele/dele
-
 😅✊ - Futuro Dev
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joabetenorio&show_icons=true&theme=cobalt)
